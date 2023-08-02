@@ -1,3 +1,3 @@
 # project
 creating new project
-##project notes
+## project notes
